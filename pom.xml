@@ -6,8 +6,8 @@
     <artifactId>clearlag</artifactId>
     <version>1.0</version>
 
-    <name>ClearLag</name>
-    <description>A plugin to clear dropped items to reduce lag</description>
+    <name>ClearLagPlaceholder</name>
+    <description>This placeholder is created to display the time to the scoreboard.</description>
 
     <properties>
         <java.version>17</java.version>
